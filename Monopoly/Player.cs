@@ -12,6 +12,12 @@ namespace Monopoly
         protected float money;
         protected int position;
 
+
+        public void Action()
+        {
+            state.Action(this);
+        }
+
         public bool IsImprisoned()
         {
             return state.IsImprisoned(this);
