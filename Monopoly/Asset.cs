@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Monopoly
 {
-    public class Asset: Square
+    public abstract class Asset: Square
     {
         private float price;
         private float mortgage_value;
