@@ -7,7 +7,7 @@ namespace Monopoly
     public abstract class Asset: Square
     {
         private float price;
-        private float mortgage_value;
+        private float mortgageValue;
         private Player owner;
 
 

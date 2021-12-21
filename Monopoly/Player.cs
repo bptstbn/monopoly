@@ -11,7 +11,8 @@ namespace Monopoly
         protected int token;
         protected float money;
         protected int position;
-
+        protected int countDouble;
+        protected int countTurnJail;
 
         public void Action()
         {

@@ -6,6 +6,6 @@ namespace Monopoly
 {
     public class FreeParking: Square
     {
-        private float available_cash;
+        private float availableCash;
     }
 }
