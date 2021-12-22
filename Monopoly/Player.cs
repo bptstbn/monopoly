@@ -9,7 +9,7 @@ namespace Monopoly
         protected IStatePlayer state;
         protected string name;
         protected int token;
-        protected float money;
+        protected double money;
         protected int position;
         protected int countDouble;
         protected int countTurnJail;
@@ -22,6 +22,14 @@ namespace Monopoly
         public bool IsImprisoned()
         {
             return state.IsImprisoned(this);
+        }
+
+        public double Money {
+            get; set;
+        }
+
+        public string Name {
+            get;set;
         }
     }
 }

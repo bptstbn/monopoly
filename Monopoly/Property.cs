@@ -4,9 +4,13 @@ using System.Text;
 
 namespace Monopoly
 {
-    class Property: Asset
+    class Property: Asset, ISquare
     {
-        private int group;
-        private List<float> rents;
+
+        public Property(int position, string name, int price, double mortgageValue, int rent, Player owner) : base(position, name, price, mortgageValue, rent, owner)
+        {
+
+        }
+
     }
 }
