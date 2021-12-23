@@ -1,0 +1,5 @@
+E:\OneDrive\Documents\Visual Studio 2019\Source\Repos\monopoly\Monopoly\obj\Debug\netcoreapp3.1\Monopoly.csproj.AssemblyReference.cache
+E:\OneDrive\Documents\Visual Studio 2019\Source\Repos\monopoly\Monopoly\obj\Debug\netcoreapp3.1\Monopoly.GeneratedMSBuildEditorConfig.editorconfig
+E:\OneDrive\Documents\Visual Studio 2019\Source\Repos\monopoly\Monopoly\obj\Debug\netcoreapp3.1\Monopoly.AssemblyInfoInputs.cache
+E:\OneDrive\Documents\Visual Studio 2019\Source\Repos\monopoly\Monopoly\obj\Debug\netcoreapp3.1\Monopoly.AssemblyInfo.cs
+E:\OneDrive\Documents\Visual Studio 2019\Source\Repos\monopoly\Monopoly\obj\Debug\netcoreapp3.1\Monopoly.csproj.CoreCompileInputs.cache

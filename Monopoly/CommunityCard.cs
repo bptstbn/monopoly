@@ -4,16 +4,15 @@ using System.Text;
 
 namespace Monopoly
 {
-    public class Jail: Square, ISquare
+    public class CommunityCard: Square, ISquare
     {
-        public Jail(int position, string name) : base(position, name)
+        public CommunityCard(int position, string name) : base(position, name)
         {
-
         }
 
         public override void ActionOnPlayer(Player player)
         {
-            Console.WriteLine("Your visiting the Jail");
+            CommunityCardGenerator.RandomCard(player);
         }
     }
 }
