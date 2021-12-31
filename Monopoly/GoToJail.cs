@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
@@ -14,6 +14,10 @@ namespace Monopoly
         public override void ActionOnPlayer(Player player)
         {
             player.State = new Imprisoned();
+<<<<<<< HEAD
+=======
+            
+>>>>>>> b199c6a4c78e29de3b235a5d2c8e791c7cdc60e3
             player.Action();
         }
 

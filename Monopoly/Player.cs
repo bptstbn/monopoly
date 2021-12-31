@@ -30,6 +30,7 @@ namespace Monopoly
             return state.IsImprisoned(this);
         }
 
+<<<<<<< HEAD
         #region Propriétés 
         public double Money {
             get => money;
@@ -96,5 +97,18 @@ namespace Monopoly
         #endregion
 
 
+=======
+        public double Money {
+            get; set;
+        }
+
+        public string Name {
+            get;set;
+        }
+
+        public IStatePlayer State {
+            get; set;
+        }
+>>>>>>> b199c6a4c78e29de3b235a5d2c8e791c7cdc60e3
     }
 }

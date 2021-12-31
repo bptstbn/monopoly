@@ -6,7 +6,10 @@ namespace Monopoly
 {
     public static class CommunityCardGenerator
     {
+<<<<<<< HEAD
 
+=======
+>>>>>>> b199c6a4c78e29de3b235a5d2c8e791c7cdc60e3
         public static void BankErrorInYourFavor(Player player)
         {
             player.Money += 200;
