@@ -8,6 +8,7 @@ namespace Monopoly
     {
         private static Board instance = new Board();
 
+
         public static Board GetInstance()
         {
             return instance;

@@ -43,7 +43,7 @@ namespace Monopoly
 
         public bool IsDouble()
         {
-            return (this.dieA == this.dieB)
+            return (this.dieA == this.dieB);
         }
     }
 
