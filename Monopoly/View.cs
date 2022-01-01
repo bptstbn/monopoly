@@ -40,25 +40,92 @@ namespace Monopoly
             DisplayDie(dice.DieB);
             Console.WriteLine("You have just rolled the dice and obtained {0}", dice.Sum());
         }
-        public static void DisplayBoard(Board board)
+        public static string GetSquareName(Board board, int size, int postion)
         {
-            Square[] array = board.Array;
+            string name = board.Array[postion].Name;
+            if (name.Length > size)
+            {
+                name = name.Substring(0, size - 1) + ".";
+            }
+            return String.Format("{0,-" + size.ToString() + "}", String.Format("{0," + ((size + name.Length) / 2).ToString() + "}", name));
+        }
+        /*
+        public static string GetPlayersName(List<Player> players, int size, int postion)
+        {
+            string s = "";
+            foreach (Player player in players)
+            {
+                name 
+            }
+            if (name.Length > size)
+            {
+                name = name.Substring(0, size - 1) + ".";
+            }
+            return "";
+        }
+        */
+        public static void DisplayRow(Board board, List<Player> players, int size, bool isUpperRow)
+        {
+            string upperBorder = new string('_', size);
+            Console.WriteLine(" {0} {0} {0} {0} {0} {0} {0} {0} {0} {0} {0}", upperBorder);
+            if (isUpperRow)
+            {
+                for (int i = 10; i < 21; i++)
+                {
+                    if (i == 10)
+                    {
+                        Console.Write("|");
+                    }
+                    Console.Write(GetSquareName(board, size, i) + "|");
+                }
+            }
+            else
+            {
+                Console.Write("|" + GetSquareName(board, size, 0) + "|");
+                for (int i = 39; i > 29; i--)
+                {
+                    Console.Write(GetSquareName(board, size, i) + "|");
+                }
+            }
             Console.WriteLine();
-            for (int i = 0; i <= 10; i++)
+            string inside = new string(' ', size-1);
+            for (int k = 0; k < size/2 - 1; k++)
             {
-                Console.Write("| {0} ", array[i].Name);
+                Console.WriteLine("{0} {0} {0} {0} {0} {0} {0} {0} {0} {0} {0} {1}", "|" + inside, "|");
             }
-            Console.Write("\n--------------------------------------------------------------------------------------------------------------------------------");
-            for (int i = 0; i <= 8; i++)
+            string lowerBorder = new string('‾', size);
+            Console.WriteLine(" {0} {0} {0} {0} {0} {0} {0} {0} {0} {0} {0}", lowerBorder);
+            Console.WriteLine();
+        }
+        public static void DisplayColumns(Board board, List<Player> players, int size)
+        {
+            for (int j = 21; j < 30; j++)
             {
-                Console.Write("\n| {0} \t|\t\t\t\t\t\t\t\t\t\t | {1} \t|", array[39 - i].Name, array[11 + i].Name);
+                int i = 30 - j;
+                DisplayPair(board, players, size, i, j);
             }
-            Console.WriteLine("\n--------------------------------------------------------------------------------------------------------------------------------");
-            for (int i = 30; i >= 20; i--)
+        }
+        public static void DisplayPair(Board board, List<Player> players, int size, int i, int j)
+        {
+            string border = new string('_', size);
+            string spaces = new string(' ', (size+1)*9-3);
+            string inside = new string(' ', size);
+            if (i != 9 && j != 21)
             {
-                Console.Write("| {0} ", array[i].Name);
+                Console.WriteLine(" {0} {1} {0}\n", border, spaces + "  ");
             }
-            Console.WriteLine("\n");
+            Console.WriteLine("{0} {1} {2}", "|" + GetSquareName(board, size, i) + "|", spaces, "|" + GetSquareName(board, size, j) + "|");
+            for (int k = 0; k < size/2 - 1; k++)
+            {
+                Console.WriteLine("{0} {1} {0}", "|" + inside + "|", spaces);
+            }
+        }
+        public static void DisplayBoard(Board board, List<Player> players, int size = 12)
+        {
+            Console.OutputEncoding = Encoding.UTF8;
+            DisplayRow(board, players, size, true);
+            DisplayColumns(board, players, size);
+            DisplayRow(board, players, size, false);
         }
     }
 }

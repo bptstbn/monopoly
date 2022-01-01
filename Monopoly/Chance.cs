@@ -10,6 +10,13 @@ namespace Monopoly
     {
         public Chance() : base("Chance")
         {
+
         }
+
+        public override void Action(Player player, Dice dice, Game game)
+        {
+            ChanceGenerator.RandomCard(player, dice, game);
+        }
+
     }
 }

@@ -47,8 +47,10 @@
     <Compile Include="Asset.cs" />
     <Compile Include="Board.cs" />
     <Compile Include="Chance.cs" />
+    <Compile Include="ChanceGenerator.cs" />
     <Compile Include="ColorCategory.cs" />
     <Compile Include="CommunityChest.cs" />
+    <Compile Include="CommunityChestGenerator.cs" />
     <Compile Include="Controller.cs" />
     <Compile Include="Dice.cs" />
     <Compile Include="Free.cs" />

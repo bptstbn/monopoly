@@ -23,7 +23,8 @@ namespace Monopoly
             */
             Game game = new Game();
             Console.WriteLine("\t=== YOU ARE PLAYING MONOPOLY ===");
-            View.DisplayBoard(game.Board);
+            // View.DisplayBoard(game.Board);
+            View.DisplayBoard(game.Board, game.Players);
             Controller.Initialize(game);
             do
             {

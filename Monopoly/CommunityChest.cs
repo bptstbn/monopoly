@@ -10,6 +10,12 @@ namespace Monopoly
     {
         public CommunityChest() : base("Community Chest")
         {
+
+        }
+
+        public override void Action(Player player, Dice dice, Game game)
+        {
+            CommunityChestGenerator.RandomCard(player, dice, game);
         }
     }
 }
