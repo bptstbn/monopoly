@@ -57,7 +57,7 @@ namespace Monopoly
                 return this.bareLandRent;
             }
         }
-        public override void Action(Player player, Dice dice)
+        public override void Action(Player player, Dice dice, Game game)
         {
             if (this.owner == null)
             {
@@ -75,7 +75,7 @@ namespace Monopoly
                     Console.WriteLine("You already own {0} properties of this color group.", count);
                 }
             }
-            base.Action(player, dice);
+            base.Action(player, dice, game);
             // contray to other assets, we have to add the possibilty to buy houses
         }
     }

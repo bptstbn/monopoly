@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Monopoly
 {
-    public class Square
+    abstract public class Square
     {
         protected string name;
 
@@ -20,7 +20,7 @@ namespace Monopoly
             get { return this.name; }
             set { this.name = value; }
         }
-        public virtual void Action(Player player, Dice dice)
+        public virtual void Action(Player player, Dice dice, Game game)
         {
             // depends on each type of square
         }

@@ -12,7 +12,7 @@ namespace Monopoly
         {
         }
 
-        public override void Action(Player player, Dice dice)
+        public override void Action(Player player, Dice dice, Game game)
         {
             player.PutInJail();
             Console.WriteLine("You are now in jail.");

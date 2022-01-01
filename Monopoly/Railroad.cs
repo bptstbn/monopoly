@@ -33,7 +33,7 @@ namespace Monopoly
             }
         }
 
-        public override void Action(Player player, Dice dice)
+        public override void Action(Player player, Dice dice, Game game)
         {
             if (this.owner == null)
             {
@@ -51,7 +51,7 @@ namespace Monopoly
                     Console.WriteLine("You already own {0} railroads.", count);
                 }
             }
-            base.Action(player, dice);
+            base.Action(player, dice, game);
         }
     }
 }

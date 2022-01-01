@@ -64,7 +64,7 @@ namespace Monopoly
                     player.MoveForward(dice);
                     Console.WriteLine("You have landed on {0}.", game.Board.Array[player.Position].Name);
                     // View.DisplayBoard(game.Board);
-                    game.Board.Array[player.Position].Action(player, dice);
+                    game.Board.Array[player.Position].Action(player, dice, game);
                     if (player.EndTurn(dice))
                     {
                         replay = false;

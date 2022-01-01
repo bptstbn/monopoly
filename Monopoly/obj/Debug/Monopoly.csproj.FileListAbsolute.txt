@@ -5,3 +5,12 @@ C:\Users\Baptiste\Documents\Etudes\2021-22 ESILV A4\Semestre 1\DPSDP (Design Pat
 C:\Users\Baptiste\Documents\Etudes\2021-22 ESILV A4\Semestre 1\DPSDP (Design Pattern & Sofware Development Process)\Monopoly-project-master\Monopoly\obj\Debug\Monopoly.exe
 C:\Users\Baptiste\Documents\Etudes\2021-22 ESILV A4\Semestre 1\DPSDP (Design Pattern & Sofware Development Process)\Monopoly-project-master\Monopoly\obj\Debug\Monopoly.pdb
 C:\Users\Baptiste\Documents\Etudes\2021-22 ESILV A4\Semestre 1\DPSDP (Design Pattern & Sofware Development Process)\Monopoly-project-master\Monopoly\obj\Debug\Monopoly.csprojAssemblyReference.cache
+E:\OneDrive\Documents\GitHub\monopoly\Monopoly\bin\Debug\Monopoly.exe.config
+E:\OneDrive\Documents\GitHub\monopoly\Monopoly\bin\Debug\Monopoly.exe
+E:\OneDrive\Documents\GitHub\monopoly\Monopoly\bin\Debug\Monopoly.pdb
+E:\OneDrive\Documents\GitHub\monopoly\Monopoly\obj\Debug\Monopoly.csproj.AssemblyReference.cache
+E:\OneDrive\Documents\GitHub\monopoly\Monopoly\obj\Debug\Monopoly.csproj.CoreCompileInputs.cache
+E:\OneDrive\Documents\GitHub\monopoly\Monopoly\obj\Debug\Monopoly.exe
+E:\OneDrive\Documents\GitHub\monopoly\Monopoly\obj\Debug\Monopoly.pdb
+E:\OneDrive\Documents\Visual Studio 2019\Source\Repos\monopoly\Monopoly\obj\Debug\Monopoly.exe
+E:\OneDrive\Documents\Visual Studio 2019\Source\Repos\monopoly\Monopoly\obj\Debug\Monopoly.pdb

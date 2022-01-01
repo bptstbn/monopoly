@@ -21,7 +21,7 @@ namespace Monopoly
             set { this.amount = value; }
         }
 
-        public override void Action(Player player, Dice dice)
+        public override void Action(Player player, Dice dice, Game game)
         {
             if (this.amount == 0)
             {
