@@ -1,0 +1,7 @@
+C:\Users\Baptiste\Documents\Etudes\2021-22 ESILV A4\Semestre 1\DPSDP (Design Pattern & Sofware Development Process)\Monopoly-project-master\Monopoly\obj\Debug\Monopoly.csproj.CoreCompileInputs.cache
+C:\Users\Baptiste\Documents\Etudes\2021-22 ESILV A4\Semestre 1\DPSDP (Design Pattern & Sofware Development Process)\Monopoly-project-master\Monopoly\bin\Debug\Monopoly.exe.config
+C:\Users\Baptiste\Documents\Etudes\2021-22 ESILV A4\Semestre 1\DPSDP (Design Pattern & Sofware Development Process)\Monopoly-project-master\Monopoly\bin\Debug\Monopoly.exe
+C:\Users\Baptiste\Documents\Etudes\2021-22 ESILV A4\Semestre 1\DPSDP (Design Pattern & Sofware Development Process)\Monopoly-project-master\Monopoly\bin\Debug\Monopoly.pdb
+C:\Users\Baptiste\Documents\Etudes\2021-22 ESILV A4\Semestre 1\DPSDP (Design Pattern & Sofware Development Process)\Monopoly-project-master\Monopoly\obj\Debug\Monopoly.exe
+C:\Users\Baptiste\Documents\Etudes\2021-22 ESILV A4\Semestre 1\DPSDP (Design Pattern & Sofware Development Process)\Monopoly-project-master\Monopoly\obj\Debug\Monopoly.pdb
+C:\Users\Baptiste\Documents\Etudes\2021-22 ESILV A4\Semestre 1\DPSDP (Design Pattern & Sofware Development Process)\Monopoly-project-master\Monopoly\obj\Debug\Monopoly.csprojAssemblyReference.cache

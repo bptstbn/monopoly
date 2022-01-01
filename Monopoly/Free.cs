@@ -1,0 +1,22 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Monopoly
+{
+    class Free : IStatePlayer
+    {
+        public void Action(Player player)
+        {
+            player.CountTurnJail = 0;
+            Console.WriteLine("Congratulations, you are now free and can move again ! ");
+        }
+
+        public bool IsPrisoner(Player context)
+        {
+            return false;
+        }
+    }
+}
