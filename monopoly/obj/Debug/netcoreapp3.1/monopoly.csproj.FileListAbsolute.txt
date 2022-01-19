@@ -1,0 +1,53 @@
+E:\OneDrive\Documents\Visual Studio 2019\Source\Repos\monopoly\bin\Debug\netcoreapp3.1\monopoly.exe
+E:\OneDrive\Documents\Visual Studio 2019\Source\Repos\monopoly\bin\Debug\netcoreapp3.1\monopoly.deps.json
+E:\OneDrive\Documents\Visual Studio 2019\Source\Repos\monopoly\bin\Debug\netcoreapp3.1\monopoly.runtimeconfig.json
+E:\OneDrive\Documents\Visual Studio 2019\Source\Repos\monopoly\bin\Debug\netcoreapp3.1\monopoly.runtimeconfig.dev.json
+E:\OneDrive\Documents\Visual Studio 2019\Source\Repos\monopoly\bin\Debug\netcoreapp3.1\monopoly.dll
+E:\OneDrive\Documents\Visual Studio 2019\Source\Repos\monopoly\bin\Debug\netcoreapp3.1\monopoly.pdb
+E:\OneDrive\Documents\Visual Studio 2019\Source\Repos\monopoly\obj\Debug\netcoreapp3.1\monopoly.csproj.AssemblyReference.cache
+E:\OneDrive\Documents\Visual Studio 2019\Source\Repos\monopoly\obj\Debug\netcoreapp3.1\monopoly.GeneratedMSBuildEditorConfig.editorconfig
+E:\OneDrive\Documents\Visual Studio 2019\Source\Repos\monopoly\obj\Debug\netcoreapp3.1\monopoly.AssemblyInfoInputs.cache
+E:\OneDrive\Documents\Visual Studio 2019\Source\Repos\monopoly\obj\Debug\netcoreapp3.1\monopoly.AssemblyInfo.cs
+E:\OneDrive\Documents\Visual Studio 2019\Source\Repos\monopoly\obj\Debug\netcoreapp3.1\monopoly.csproj.CoreCompileInputs.cache
+E:\OneDrive\Documents\Visual Studio 2019\Source\Repos\monopoly\obj\Debug\netcoreapp3.1\monopoly.dll
+E:\OneDrive\Documents\Visual Studio 2019\Source\Repos\monopoly\obj\Debug\netcoreapp3.1\monopoly.pdb
+E:\OneDrive\Documents\Visual Studio 2019\Source\Repos\monopoly\obj\Debug\netcoreapp3.1\monopoly.genruntimeconfig.cache
+C:\Users\Baptiste\Documents\Etudes\2021-22 ESILV A4\Semestre 1\DPSDP (Design Pattern & Sofware Development Process)\Monopoly lastest version\monopoly\bin\Debug\netcoreapp3.1\monopoly.exe
+C:\Users\Baptiste\Documents\Etudes\2021-22 ESILV A4\Semestre 1\DPSDP (Design Pattern & Sofware Development Process)\Monopoly lastest version\monopoly\bin\Debug\netcoreapp3.1\monopoly.deps.json
+C:\Users\Baptiste\Documents\Etudes\2021-22 ESILV A4\Semestre 1\DPSDP (Design Pattern & Sofware Development Process)\Monopoly lastest version\monopoly\bin\Debug\netcoreapp3.1\monopoly.runtimeconfig.json
+C:\Users\Baptiste\Documents\Etudes\2021-22 ESILV A4\Semestre 1\DPSDP (Design Pattern & Sofware Development Process)\Monopoly lastest version\monopoly\bin\Debug\netcoreapp3.1\monopoly.runtimeconfig.dev.json
+C:\Users\Baptiste\Documents\Etudes\2021-22 ESILV A4\Semestre 1\DPSDP (Design Pattern & Sofware Development Process)\Monopoly lastest version\monopoly\bin\Debug\netcoreapp3.1\monopoly.dll
+C:\Users\Baptiste\Documents\Etudes\2021-22 ESILV A4\Semestre 1\DPSDP (Design Pattern & Sofware Development Process)\Monopoly lastest version\monopoly\bin\Debug\netcoreapp3.1\monopoly.pdb
+C:\Users\Baptiste\Documents\Etudes\2021-22 ESILV A4\Semestre 1\DPSDP (Design Pattern & Sofware Development Process)\Monopoly lastest version\monopoly\obj\Debug\netcoreapp3.1\monopoly.csprojAssemblyReference.cache
+C:\Users\Baptiste\Documents\Etudes\2021-22 ESILV A4\Semestre 1\DPSDP (Design Pattern & Sofware Development Process)\Monopoly lastest version\monopoly\obj\Debug\netcoreapp3.1\monopoly.AssemblyInfoInputs.cache
+C:\Users\Baptiste\Documents\Etudes\2021-22 ESILV A4\Semestre 1\DPSDP (Design Pattern & Sofware Development Process)\Monopoly lastest version\monopoly\obj\Debug\netcoreapp3.1\monopoly.AssemblyInfo.cs
+C:\Users\Baptiste\Documents\Etudes\2021-22 ESILV A4\Semestre 1\DPSDP (Design Pattern & Sofware Development Process)\Monopoly lastest version\monopoly\obj\Debug\netcoreapp3.1\monopoly.csproj.CoreCompileInputs.cache
+C:\Users\Baptiste\Documents\Etudes\2021-22 ESILV A4\Semestre 1\DPSDP (Design Pattern & Sofware Development Process)\Monopoly lastest version\monopoly\obj\Debug\netcoreapp3.1\monopoly.dll
+C:\Users\Baptiste\Documents\Etudes\2021-22 ESILV A4\Semestre 1\DPSDP (Design Pattern & Sofware Development Process)\Monopoly lastest version\monopoly\obj\Debug\netcoreapp3.1\monopoly.pdb
+C:\Users\Baptiste\Documents\Etudes\2021-22 ESILV A4\Semestre 1\DPSDP (Design Pattern & Sofware Development Process)\Monopoly lastest version\monopoly\obj\Debug\netcoreapp3.1\monopoly.genruntimeconfig.cache
+C:\Users\Baptiste\Documents\Etudes\2021-22 ESILV A4\Semestre 1\DPSDP (Design Pattern & Sofware Development Process)\monpoly v3\monopoly\bin\Debug\netcoreapp3.1\monopoly.exe
+C:\Users\Baptiste\Documents\Etudes\2021-22 ESILV A4\Semestre 1\DPSDP (Design Pattern & Sofware Development Process)\monpoly v3\monopoly\bin\Debug\netcoreapp3.1\monopoly.deps.json
+C:\Users\Baptiste\Documents\Etudes\2021-22 ESILV A4\Semestre 1\DPSDP (Design Pattern & Sofware Development Process)\monpoly v3\monopoly\bin\Debug\netcoreapp3.1\monopoly.runtimeconfig.json
+C:\Users\Baptiste\Documents\Etudes\2021-22 ESILV A4\Semestre 1\DPSDP (Design Pattern & Sofware Development Process)\monpoly v3\monopoly\bin\Debug\netcoreapp3.1\monopoly.runtimeconfig.dev.json
+C:\Users\Baptiste\Documents\Etudes\2021-22 ESILV A4\Semestre 1\DPSDP (Design Pattern & Sofware Development Process)\monpoly v3\monopoly\bin\Debug\netcoreapp3.1\monopoly.dll
+C:\Users\Baptiste\Documents\Etudes\2021-22 ESILV A4\Semestre 1\DPSDP (Design Pattern & Sofware Development Process)\monpoly v3\monopoly\bin\Debug\netcoreapp3.1\monopoly.pdb
+C:\Users\Baptiste\Documents\Etudes\2021-22 ESILV A4\Semestre 1\DPSDP (Design Pattern & Sofware Development Process)\monpoly v3\monopoly\obj\Debug\netcoreapp3.1\monopoly.csprojAssemblyReference.cache
+C:\Users\Baptiste\Documents\Etudes\2021-22 ESILV A4\Semestre 1\DPSDP (Design Pattern & Sofware Development Process)\monpoly v3\monopoly\obj\Debug\netcoreapp3.1\monopoly.AssemblyInfoInputs.cache
+C:\Users\Baptiste\Documents\Etudes\2021-22 ESILV A4\Semestre 1\DPSDP (Design Pattern & Sofware Development Process)\monpoly v3\monopoly\obj\Debug\netcoreapp3.1\monopoly.AssemblyInfo.cs
+C:\Users\Baptiste\Documents\Etudes\2021-22 ESILV A4\Semestre 1\DPSDP (Design Pattern & Sofware Development Process)\monpoly v3\monopoly\obj\Debug\netcoreapp3.1\monopoly.csproj.CoreCompileInputs.cache
+C:\Users\Baptiste\Documents\Etudes\2021-22 ESILV A4\Semestre 1\DPSDP (Design Pattern & Sofware Development Process)\monpoly v3\monopoly\obj\Debug\netcoreapp3.1\monopoly.dll
+C:\Users\Baptiste\Documents\Etudes\2021-22 ESILV A4\Semestre 1\DPSDP (Design Pattern & Sofware Development Process)\monpoly v3\monopoly\obj\Debug\netcoreapp3.1\monopoly.pdb
+C:\Users\Baptiste\Documents\Etudes\2021-22 ESILV A4\Semestre 1\DPSDP (Design Pattern & Sofware Development Process)\monpoly v3\monopoly\obj\Debug\netcoreapp3.1\monopoly.genruntimeconfig.cache
+C:\Users\Baptiste\Documents\Etudes\2021-22 ESILV A4\Semestre 1\DPSDP (Design Pattern & Sofware Development Process)\Monopoly\monopoly\bin\Debug\netcoreapp3.1\monopoly.exe
+C:\Users\Baptiste\Documents\Etudes\2021-22 ESILV A4\Semestre 1\DPSDP (Design Pattern & Sofware Development Process)\Monopoly\monopoly\bin\Debug\netcoreapp3.1\monopoly.deps.json
+C:\Users\Baptiste\Documents\Etudes\2021-22 ESILV A4\Semestre 1\DPSDP (Design Pattern & Sofware Development Process)\Monopoly\monopoly\bin\Debug\netcoreapp3.1\monopoly.runtimeconfig.json
+C:\Users\Baptiste\Documents\Etudes\2021-22 ESILV A4\Semestre 1\DPSDP (Design Pattern & Sofware Development Process)\Monopoly\monopoly\bin\Debug\netcoreapp3.1\monopoly.runtimeconfig.dev.json
+C:\Users\Baptiste\Documents\Etudes\2021-22 ESILV A4\Semestre 1\DPSDP (Design Pattern & Sofware Development Process)\Monopoly\monopoly\bin\Debug\netcoreapp3.1\monopoly.dll
+C:\Users\Baptiste\Documents\Etudes\2021-22 ESILV A4\Semestre 1\DPSDP (Design Pattern & Sofware Development Process)\Monopoly\monopoly\bin\Debug\netcoreapp3.1\monopoly.pdb
+C:\Users\Baptiste\Documents\Etudes\2021-22 ESILV A4\Semestre 1\DPSDP (Design Pattern & Sofware Development Process)\Monopoly\monopoly\obj\Debug\netcoreapp3.1\monopoly.csprojAssemblyReference.cache
+C:\Users\Baptiste\Documents\Etudes\2021-22 ESILV A4\Semestre 1\DPSDP (Design Pattern & Sofware Development Process)\Monopoly\monopoly\obj\Debug\netcoreapp3.1\monopoly.AssemblyInfoInputs.cache
+C:\Users\Baptiste\Documents\Etudes\2021-22 ESILV A4\Semestre 1\DPSDP (Design Pattern & Sofware Development Process)\Monopoly\monopoly\obj\Debug\netcoreapp3.1\monopoly.AssemblyInfo.cs
+C:\Users\Baptiste\Documents\Etudes\2021-22 ESILV A4\Semestre 1\DPSDP (Design Pattern & Sofware Development Process)\Monopoly\monopoly\obj\Debug\netcoreapp3.1\monopoly.csproj.CoreCompileInputs.cache
+C:\Users\Baptiste\Documents\Etudes\2021-22 ESILV A4\Semestre 1\DPSDP (Design Pattern & Sofware Development Process)\Monopoly\monopoly\obj\Debug\netcoreapp3.1\monopoly.dll
+C:\Users\Baptiste\Documents\Etudes\2021-22 ESILV A4\Semestre 1\DPSDP (Design Pattern & Sofware Development Process)\Monopoly\monopoly\obj\Debug\netcoreapp3.1\monopoly.pdb
+C:\Users\Baptiste\Documents\Etudes\2021-22 ESILV A4\Semestre 1\DPSDP (Design Pattern & Sofware Development Process)\Monopoly\monopoly\obj\Debug\netcoreapp3.1\monopoly.genruntimeconfig.cache
